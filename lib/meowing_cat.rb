@@ -2,7 +2,6 @@
 
 class Cat 
   attr_accessible :name 
-end 
 
 def meow 
   puts "meow!"
@@ -11,4 +10,3 @@ end
   
 end
   
-end
